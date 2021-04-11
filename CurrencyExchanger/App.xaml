@@ -1,0 +1,9 @@
+﻿<Application x:Class="CurrencyExchanger.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CurrencyExchanger"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary Source="/Styles/MainStyle.xaml" />
+    </Application.Resources>
+</Application>
